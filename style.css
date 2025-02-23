@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    background-color: darkgray;
+    color: gold;
+}
+
+.list-items {
+    font-size: medium;
+    font-weight: bold;
+}
+
